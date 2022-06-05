@@ -16,3 +16,13 @@ sicaklik_basinc_hareket_sensoru dosyasındaki kodu ve aşağıdaki şekilde bağ
 Aşağıda serial port çıktısını görebiliriz. Basınç ve sıcaklık verilerini düzenli olarak alırken hareket sensöründen herhangi bir hareket algıladığı zaman döngüden çıkıyor ve uyarı veriyor.
 
 ![Ekran görüntüsü 2022-06-05 212159](https://user-images.githubusercontent.com/98033221/172064906-05d94f99-f407-4941-8add-067d2bae1854.jpg)
+
+## Arayüz Hakkında
+
+Labview ile seri haberleştirmeyi gerçekleştiremedim.Aşağıdaki uyarıyı aldım.
+
+![Ekran görüntüsü 2022-06-05 124008](https://user-images.githubusercontent.com/98033221/172067799-f9fbfb80-4d6b-483c-972b-e1f9128808fe.jpg)
+
+Forumlardan araştırdıktan sonra eksik olan NI VISA ve NI SERIAL dosyalarını da yüklediğimde de aşağıdaki gibi hata aldım. Saatlerce araştırmama rağmen sorunu bulamadım.
+
+![Ekran görüntüsü 2022-06-05 162011](https://user-images.githubusercontent.com/98033221/172067925-00c2be40-f006-4057-ac01-48af11297b8e.jpg)
