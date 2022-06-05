@@ -8,4 +8,4 @@
 
 sicaklik_basinc_hareket_sensoru dosyasındaki kodu ve aşağıdaki şekilde bağlantıları yaptığımızda, serial porttan resimde görüldüğü gibi basınç ve sıcaklık sensörlerini okuyabiliyoruz ve eğer hareket algılanırsa kesme gerçekleşiyor ve hareket algılandığına dair uyarı vererek döngüden çıkıyor.
 
-![elektronik bağlantı](file:///C:/Users/90534/Desktop/WhatsApp%20Image%202022-06-05%20at%2020.56.54.jpeg)
+![WhatsApp Image 2022-06-05 at 20 56 54](https://user-images.githubusercontent.com/98033221/172064607-27a4f5fc-f2bf-4c31-9444-c9c5b6b93f1f.jpeg)
