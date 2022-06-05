@@ -1,11 +1,11 @@
 # tarihi_eser_koruma_programi
 
- **Bu projenin amacı tarihi eserlerin korunması için bulunduğu ortamın sıcaklık,basınç verilerinin kontrol edilip belli bir aralıkta tutulması ayrıca hareket algıladığında tarihi eserin bulunduğu yerden alındığına dair uyarı vermesidir. Bu projede Arduino UNO, PIR sensörü, BMP180 basınç sensörü, jumper kablolar ve breadboard kullanılmıştır.**
- 
  
  *Ölçme ve Enstrümantasyon Laboratuvar Ödevi
  Rumeysa Tutan 170519030*
- 
+
+ **Bu projenin amacı tarihi eserlerin korunması için bulunduğu ortamın sıcaklık,basınç verilerinin kontrol edilip belli bir aralıkta tutulması ayrıca hareket algıladığında tarihi eserin bulunduğu yerden alındığına dair uyarı vermesidir. Bu projede Arduino UNO, PIR sensörü, BMP180 basınç sensörü, jumper kablolar ve breadboard kullanılmıştır.**
+  
  
 ## Arduino Kodu ve Elektronik Bağlantıları
 
